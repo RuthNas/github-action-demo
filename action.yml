@@ -1,0 +1,7 @@
+name: 'github action demo'
+description: 'demo'
+author: 'RuthNas'
+
+runs:
+  using: 'node16'
+  main: index.js
